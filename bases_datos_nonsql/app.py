@@ -31,6 +31,7 @@ print(response['Items'])
 
 #print(response['Items'])
 
+#ACTUALIZAR ELEMENTO
 
 response = tabla.update_item(
 
